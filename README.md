@@ -6,7 +6,9 @@ Hi, I’m Rafi — a self-driven full-stack web developer who loves turning comp
 
 
 
-Skills: Laravel / VUE JS / REACT / PHP / JavaScript/ HTML / Bootstrap / CSS
+## 🚀 Skills
+![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+
 
 - 🔭 I’m currently working on Github. 
 - 🌱 I’m currently learning PHP & JavaScript 
