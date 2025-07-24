@@ -2,11 +2,8 @@
   Hi beautiful people <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Safiul Alam Rafi
 </h1>
 
-<h3 align="center">💻 Software Developer</h3>
+<h3 align="center">💻 Software Developer</h3> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60"/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
-</p>
 Hello,I am a self-driven full-stack web developer who loves turning complex problems into elegant, high-performance solutions. My core stack includes PHP, Laravel, JavaScript, and React, which I use to build modern, scalable, and user-friendly web applications. I'm passionate about writing clean, maintainable code, crafting secure backends, and designing responsive frontends that feel seamless. Whether I’m building APIs, managing databases with SQL, or designing interactive UIs, I bring curiosity, discipline, and creativity to every project. I’m always learning, always improving — one repo at a time.
 
 
