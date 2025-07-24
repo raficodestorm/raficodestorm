@@ -6,7 +6,7 @@ Hi, I’m Rafi — a self-driven full-stack web developer who loves turning comp
 
 
 
-Skills:<p style="background-color:red;"> Laravel </p>/ VUE JS / REACT / PHP / JavaScript/ HTML / Bootstrap / CSS
+Skills: Laravel / VUE JS / REACT / PHP / JavaScript/ HTML / Bootstrap / CSS
 
 - 🔭 I’m currently working on Github. 
 - 🌱 I’m currently learning PHP & JavaScript 
