@@ -1,4 +1,7 @@
-## Hi beautiful people 👋, I'm Safiul Alam Rafi
+<h1 align="center">
+  Hi beautiful people <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Safiul Alam Rafi
+</h1>
+
 ### Software Developer
 ![Software Developer](https://media.licdn.com/dms/image/v2/D5616AQEIqXl54kcoaA/profile-displaybackgroundimage-shrink_350_1400/B56Zg65nfZG0Ac-/0/1753334841512?e=1756339200&v=beta&t=yTjtpz2WjfZJziVHBysJhJPn5Y7aEkOqCpYI9UQh_oA)
 
